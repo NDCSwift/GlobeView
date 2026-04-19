@@ -8,6 +8,8 @@ A visionOS demo that renders an interactive 3D globe inside a volumetric SwiftUI
 
 GlobeView is a minimal visionOS app built with SwiftUI and RealityKit that loads a `Scene` entity (an Earth USDZ model) from a local `RealityKitContent` Swift Package and renders it inside a volumetric window. It's a focused example of how to combine SwiftUI gestures, RealityKit entities, and a local asset package into a spatial experience on Apple Vision Pro.
 
+[Info.plist Gist](https://gist.github.com/NDCSwift/4407f9b0b04660e5beebb26031f0ac90)
+
 ## ✅ Why you'd use it
 
 - **Volumetric window** — demonstrates `WindowGroup` with `.windowStyle(.volumetric)` so content renders with real-world depth
