@@ -15,7 +15,9 @@ GlobeView is a minimal visionOS app built with SwiftUI and RealityKit that loads
 - **Local RealityKit package** — a clean template for managing `.rkassets`, USDZ models, and USDA scenes through a Swift Package
 - **SwiftUI-first** — no UIKit bridging; pure Apple-recommended patterns for visionOS
 
-Pair this with the [SpatialDemo_SwiftUI](https://github.com/NDCSwift/SpatialDemo_SwiftUI) starter for a broader look at tabbed navigation in visionOS.
+This is **Part 3** of the visionOS series. Check out the full series:
+- [PART 1 — SpatialDemo SwiftUI](https://github.com/NDCSwift/SpatialDemo_SwiftUI) — TabView navigation & local RealityKit package setup
+- [PART 2 — visionOS Solar System](https://github.com/NDCSwift/visionos-solar-system) — 3D depth layout, multi-window, and glass ornaments
 
 ## 📺 Watch on YouTube
 
