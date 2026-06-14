@@ -23,7 +23,7 @@ This is **Part 3** of the visionOS series. Check out the full series:
 
 ## 📺 Watch on YouTube
 
-> Part of the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding97) — follow along for more visionOS, SwiftUI, and RealityKit tutorials.
+> Part of the [NoahDoesCoding YouTube channel](https://www.youtube.com/@noahdoescoding) — follow along for more visionOS, SwiftUI, and RealityKit tutorials.
 
 ---
 
